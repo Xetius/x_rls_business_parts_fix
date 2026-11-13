@@ -1,0 +1,8 @@
+{
+  "title": "RLS Business Parts Fix",
+  "tag_line": "Lets the RLS business computer remove seats, exhausts and cargo boxes",
+  "version_string": "0.0.1",
+  "username": "Xetius",
+  "tagid": "x_rls_business_parts_fix",
+  "message": "In RLS Career Overhaul's business computer, a part can't be removed if it has a core slot under it, such as a seat's occupant or a muffler's tips. Numbered cargo slots also break the All Parts list. This mod fixes both at runtime without copying any RLS files. Requires RLS Career Overhaul; tested against code from 2.8.0.1. Licensed under AGPL-3.0, with source in the zip."
+}
